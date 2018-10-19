@@ -1,0 +1,9 @@
+body {background-color:#3c70c4}
+#wrapper {margin: auto; width:1024px; height: inherit;}
+header {height:50px; text-align:center;}
+h2 {font-size:18pt; text-align:center;}
+p {text-align: center;}
+
+#leftcol {float:left; width:150px; height:150px;}
+#rightcol {float:right; width:150px; height:130px;}
+#midcol {margin-left:155px; margin-right:155px;text-align: center;}
